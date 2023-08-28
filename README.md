@@ -1,2 +1,2 @@
 # php-multiplas-entidades
- Aplicação PHP utilizando múltiplas entidades no banco de dados.
+ Sistema web que incorpora um CRUD de produtos organizados por categorias. Esse sistema foi construído seguindo o padrão MVC e implementado utilizando a linguagem de programação PHP.
